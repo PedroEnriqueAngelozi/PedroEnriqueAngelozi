@@ -1,5 +1,5 @@
 
-![Pedro Angelozi(3)](https://github.com/PedroEnriqueAngelozi/PedroEnriqueAngelozi/assets/139080962/78712906-452c-42b0-bcc3-678bc146a2ac)
+![Pedro Angelozi(4)](https://github.com/PedroEnriqueAngelozi/PedroEnriqueAngelozi/assets/139080962/b4ce18ec-750a-47e0-95b8-2d4ca0a89287)
   <img align="center" alt="Rafa-Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Rafa-Ts" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Rafa-React"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
