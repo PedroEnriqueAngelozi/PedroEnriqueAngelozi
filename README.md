@@ -32,33 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# Skills ✨
-
-Skills Back-End 👨‍💻:
-
-Skills Front-End 💻:
-
-Skills DataBase 🗄️: 
-
-Others Skills 🌟: 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python"  src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-</div>
-
-
-# Experiência Profissional 💼
-
-Urbano Bank 🏦:
-
-------------------------------
-
-R&AAngelozi 💻💳: 
-
-------------------------------
-
 # Meu Perfil no GitHub 👨‍💻
 
 Este é o meu mais novo perfil no GitHub! ✨
@@ -72,3 +45,36 @@ Após 11 meses, fui contratado por um banco digital em constante desenvolvimento
 No backend, consolidei minha visão de arquitetura de serviços e aprendi a trabalhar com Node.js e sua biblioteca Express. Inicialmente, tive a oportunidade de trabalhar no desenvolvimento do fluxo de geração e administração de boletos bancários, tanto no backend quanto no frontend, sem ter muita escolha. Essa tem sido minha experiência nessa startup e tem sido maravilhosa até agora! 😊
 
 Atualmente, não quero ficar inativo no mercado de trabalho. Por isso, criei este perfil para poder contribuir com a causa da programação. Postarei projetos tanto no backend quanto no frontend, utilizando as tecnologias nas quais tenho interesse. Não me limitarei a uma área específica da programação! Estou disponível para conversas e tenho um enorme interesse em grupos de estudos, bootcamps e projetos revolucionários e desafiadores. 🚀
+
+
+# Skills ✨
+
+Skills Back-End 👨‍💻:
+
+    Node.js 🟢 - Express 🚀 - jQuery 🤝 - Servlet 🌐 - Hibernate 🌙 - JDBC-Native 📊
+
+    Java ☕️ - Spring-Boot 🌱 - Spring-Data 🗄️ - Spring-Security 🔒 - JPA 📦  
+
+Skills Front-End 💻:
+
+    Angular 11 🔺 - Ionic 📱 -Flutter 🦋
+    TypeScript 📜 - HTML 🌐 - CSS 🎨
+
+Skills DataBase 🗄️: 
+
+    MySQL 🐬 - NoSQL 🚫🐬 - MongoDB 🍃
+
+Others Skills 🌟:
+
+    Linux 🐧 - Git Flow 🌊
+
+# Experiência Profissional 💼
+
+Urbano Bank 🏦:
+
+------------------------------
+
+R&AAngelozi 💻💳: 
+
+------------------------------
+
