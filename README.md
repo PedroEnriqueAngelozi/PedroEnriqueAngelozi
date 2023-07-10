@@ -52,8 +52,8 @@ Atualmente, não quero ficar inativo no mercado de trabalho. Por isso, criei est
 Skills Back-End 👨‍💻:
 
     Node.js 🟢 - Express 🚀 - jQuery 🤝 - Servlet 🌐 - Hibernate 🌙 - JDBC-Native 📊
-
-    Java ☕️ - Spring-Boot 🌱 - Spring-Data 🗄️ - Spring-Security 🔒 - JPA 📦  
+    Java ☕️ - Spring-Boot 🌱 - Spring-Data 🗄️ - Spring-Security 🔒 - JPA 📦 - JSON 📄 
+    JSP 🌐 - JBoss 🚀 - API Rest 🌐🔌 - JUnit 🧪 - SOLID 🧱 - Mensageria (RabbitMQ) 🐇📩
 
 Skills Front-End 💻:
 
@@ -62,11 +62,12 @@ Skills Front-End 💻:
 
 Skills DataBase 🗄️: 
 
-    MySQL 🐬 - NoSQL 🚫🐬 - MongoDB 🍃
+    MySQL 🐬 - MongoDB 🍃
 
 Others Skills 🌟:
 
-    Linux 🐧 - Git Flow 🌊
+    Linux 🐧 - Git 🐙 - Git Flow 🌊 - Jira 📝 - Metodologias Ágeis 🚀
+    Trello 📌 - Testes Unitários 🧪 - Arquitetura de Microsserviços 🏢
 
 # Experiência Profissional 💼
 
@@ -75,6 +76,10 @@ Urbano Bank 🏦:
 ------------------------------
 
 R&AAngelozi 💻💳: 
+
+Período: 02/2021 á 01/2022 🗓️
+
+Tive a oportunidade de atuar na área de sustentação de um projeto em Java no qual era feito o gerenciamento e pedido de maquininhas de crédito. Nesse período de 11 meses, pude experimentar como é estar em um projeto com prazos curtos e atuar de forma significativa. 📅✨ Tive contato com Java, Spring Framework, JDBC Native, APIs REST, MySQL, Trello, JBoss e jQuery. Além disso, utilizamos o RabbitMQ como mensageria. 🐇📩 Nesse projeto, atuei principalmente no back-end, mas sem deixar de lado o desenvolvimento front-end. 💻🔌
 
 ------------------------------
 
