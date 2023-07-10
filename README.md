@@ -73,13 +73,27 @@ Others Skills 🌟:
 
 Urbano Bank 🏦:
 
+Período: 10/2022 até Atualmente 🗓️
+
+💼 O Urbano Bank é uma instituição financeira inovadora, comprometida em oferecer soluções bancárias eficientes e convenientes aos seus clientes. Com uma abordagem centrada no cliente, eles fornecem uma ampla gama de serviços, desde contas correntes e investimentos até empréstimos. Com uma equipe capacitada e uma plataforma digital intuitiva, o Urbano Bank garante acesso rápido e fácil aos serviços bancários, proporcionando uma experiência personalizada e segura.
+
+💻 Durante minha experiência no Urbano Bank, tive a oportunidade de trabalhar com diversas tecnologias. No desenvolvimento do back-end, utilizei Node.js com Express e JSON para criar uma API RESTful, enquanto no front-end, trabalhei com Angular 11, Ionic e Flutter, utilizando TypeScript, HTML e CSS. Além disso, utilizamos MySQL e MongoDB como bancos de dados e adotamos o Git Flow, Jira e metodologias ágeis para controle de versão, gerenciamento de tarefas e desenvolvimento iterativo. Essas tecnologias foram essenciais para o sucesso do projeto, permitindo a entrega de soluções inovadoras e eficientes.
+
+🚀 É gratificante fazer parte da equipe do Urbano Bank, contribuindo para o desenvolvimento contínuo e o aprimoramento das soluções oferecidas. Estou entusiasmado em continuar trabalhando com essas tecnologias e explorando novas oportunidades para impulsionar a inovação no setor financeiro. Vamos juntos construir o futuro das soluções bancárias! 💪🌟
+
 ------------------------------
 
-R&AAngelozi 💻💳: 
+R&AAngelozi 💻💳:
 
-Período: 02/2021 á 01/2022 🗓️
+Período: 08/2021 á 07/2022 🗓️
 
-Tive a oportunidade de atuar na área de sustentação de um projeto em Java no qual era feito o gerenciamento e pedido de maquininhas de crédito. Nesse período de 11 meses, pude experimentar como é estar em um projeto com prazos curtos e atuar de forma significativa. 📅✨ Tive contato com Java, Spring Framework, JDBC Native, APIs REST, MySQL, Trello, JBoss e jQuery. Além disso, utilizamos o RabbitMQ como mensageria. 🐇📩 Nesse projeto, atuei principalmente no back-end, mas sem deixar de lado o desenvolvimento front-end. 💻🔌
+Durante 11 meses, tive a incrível oportunidade de fazer parte do meu primeiro projeto no mundo da programação, atuando na área de sustentação no gerenciamento e pedido de maquininhas de crédito. Foi uma experiência enriquecedora, na qual pude lidar com prazos curtos e assumir responsabilidades significativas. 💼
+
+Nesse período, tive contato com tecnologias como Java ☕️, Spring Framework 🌱, JDBC Native, APIs REST 🌐, MySQL 🐬, Trello 📝, JBoss e jQuery. Essas ferramentas desempenharam um papel fundamental no desenvolvimento do projeto, permitindo a criação de soluções eficientes e robustas. Além disso, utilizei o RabbitMQ como plataforma de mensageria 🐇📨, facilitando a comunicação e integração entre os diferentes componentes do sistema. 📊💻
+
+Embora tenha atuado principalmente no desenvolvimento back-end, também tive a oportunidade de me envolver no desenvolvimento front-end, o que me proporcionou uma visão mais abrangente do projeto. Essa primeira experiência no mundo da programação me permitiu adquirir conhecimentos técnicos valiosos e desenvolver habilidades colaborativas em um ambiente dinâmico. ⚙️🌐
+
+Foi gratificante contribuir para o sucesso desse projeto, enfrentando desafios e entregando soluções de qualidade. Essa experiência inicial me motivou a continuar explorando o mundo da programação e me deixou entusiasmado para novas oportunidades de aprendizado e crescimento. 🚀🔧
 
 ------------------------------
 
