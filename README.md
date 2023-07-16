@@ -44,7 +44,6 @@ Além disso, aprofundei minha visão de arquitetura de serviços no backend, uti
 
 Atualmente, estou em busca de novas oportunidades e desafios para expandir meu conhecimento e contribuir de forma significativa para projetos inovadores. Criei este perfil no GitHub com o objetivo de compartilhar meus projetos, explorando as tecnologias que despertam meu interesse e minha paixão. Estou sempre aberto a conversas, grupos de estudos, bootcamps e projetos colaborativos que me permitam continuar crescendo profissionalmente. Juntos, podemos alcançar soluções inovadoras e transformar o mundo da programação! Vamos em frente! 🚀
 
-
 # Skills ✨
 
 Skills Back-End 👨‍💻:
@@ -66,6 +65,10 @@ Others Skills 🌟:
 
     Linux 🐧 - Git 🐙 - Git Flow 🌊 - Jira 📝 - Metodologias Ágeis 🚀
     Trello 📌 - Testes Unitários 🧪 - Arquitetura de Microsserviços 🏢
+
+# Meu Curriculo, Confira!
+
+Baixar Curriculo:  [Pedro E. Angelozi h. zamora.pdf](https://github.com/PedroEnriqueAngelozi/PedroEnriqueAngelozi/files/12064618/Pedro.E.Angelozi.h.zamora.pdf)
 
 # Experiência Profissional 💼
 
