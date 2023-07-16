@@ -1,3 +1,7 @@
+# Meu Curriculo, Confira!
+
+Baixar Curriculo:  [Pedro E. Angelozi h. zamora.pdf](https://github.com/PedroEnriqueAngelozi/PedroEnriqueAngelozi/files/12064618/Pedro.E.Angelozi.h.zamora.pdf)
+
 # Meu Perfil no GitHub 👨‍💻
 
 👋 Olá! Muito prazer em te receber no meu perfil do GitHub. Me chamo Pedro Angelozi e sou apaixonado por programação. Com 21 anos de idade, já acumulei 1 ano e 9 meses de experiência no mercado de trabalho, desde que iniciei minha jornada aos 18 anos. Estou sempre em busca de aprimoramento e aprendizado contínuo nesse vasto mundo da Programação/TI.
@@ -31,10 +35,6 @@ Others Skills 🌟:
 
     Linux 🐧 - Git 🐙 - Git Flow 🌊 - Jira 📝 - Metodologias Ágeis 🚀
     Trello 📌 - Testes Unitários 🧪 - Arquitetura de Microsserviços 🏢
-
-# Meu Curriculo, Confira!
-
-Baixar Curriculo:  [Pedro E. Angelozi h. zamora.pdf](https://github.com/PedroEnriqueAngelozi/PedroEnriqueAngelozi/files/12064618/Pedro.E.Angelozi.h.zamora.pdf)
 
 # Experiência Profissional 💼
 
