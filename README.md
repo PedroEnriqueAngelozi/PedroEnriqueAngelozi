@@ -81,7 +81,7 @@ Participar ativamente da criação desse sistema de boletos do zero foi uma expe
 
 Além disso, sou grato ao UrbanoBank por ter me dado a minha primeira oportunidade no mercado de trabalho como programador efetivado por uma empresa. Desde o início, a equipe do UrbanoBank acreditou em meu potencial e me proporcionou uma plataforma para desenvolver minhas habilidades como desenvolvedor full-stack. Estou verdadeiramente grato por essa oportunidade. 🙏
 
-Atualmente, no UrbanoBank, estamos imersos em um emocionante processo de aceitação do Basem, um marco importante para nos tornarmos um banco oficialmente. Nesse processo, estou envolvido ativamente em trabalhar com a equipe para implementar as alterações necessárias e garantir que nosso sistema esteja totalmente em conformidade com os requisitos e regulamentações exigidos. 💼🏦
+Atualmente, no UrbanoBank, estamos imersos em um emocionante processo de aceitação do Basem, um marco importante para nos tornarmos um banco oficialmente. Nesse processo, estou envolvido ativamente em trabalhar com a equipe para implementar as alterações necessárias e garantir a conformidade total do nosso sistema com os requisitos e regulamentações exigidos. 💼🏦
 
 Participar desse processo de aceitação do Basem tem me proporcionado uma visão valiosa sobre as práticas e padrões do setor bancário. Estou aprendendo a lidar com desafios específicos e a adaptar nosso sistema para atender às demandas e exigências do mercado financeiro. Essa experiência tem sido enriquecedora, permitindo-me crescer profissionalmente e aprimorar minhas habilidades em um contexto real de desenvolvimento de um banco completo e confiável. 💪💼🚀
 
