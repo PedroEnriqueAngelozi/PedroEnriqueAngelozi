@@ -69,29 +69,45 @@ Others Skills 🌟:
 
 # Experiência Profissional 💼
 
-Urbano Bank 🏦:
+👨‍💻 **Experiência como Desenvolvedor Trainee Full-stack no UrbanoBank 🏦** 👨‍💼
 
 Período: 10/2022 até Atualmente 🗓️
 
-💼 O Urbano Bank é uma instituição financeira inovadora, comprometida em oferecer soluções bancárias eficientes e convenientes aos seus clientes. Com uma abordagem centrada no cliente, eles fornecem uma ampla gama de serviços, desde contas correntes e investimentos até empréstimos. Com uma equipe capacitada e uma plataforma digital intuitiva, o Urbano Bank garante acesso rápido e fácil aos serviços bancários, proporcionando uma experiência personalizada e segura.
+Ao longo da minha trajetória como desenvolvedor trainee full-stack no UrbanoBank, tive a incrível oportunidade de participar de um projeto desafiador de desenvolvimento de um sistema completo de boletos bancários. Desde o início, fui envolvido em todas as etapas do processo, desde a concepção e planejamento até a implementação final. 🚀
 
-💻 Durante minha experiência no Urbano Bank, tive a oportunidade de trabalhar com diversas tecnologias. No desenvolvimento do back-end, utilizei Node.js com Express e JSON para criar uma API RESTful, enquanto no front-end, trabalhei com Angular 11, Ionic e Flutter, utilizando TypeScript, HTML e CSS. Além disso, utilizamos MySQL e MongoDB como bancos de dados e adotamos o Git Flow, Jira e metodologias ágeis para controle de versão, gerenciamento de tarefas e desenvolvimento iterativo. Essas tecnologias foram essenciais para o sucesso do projeto, permitindo a entrega de soluções inovadoras e eficientes.
+Durante esse projeto empolgante, adquiri habilidades valiosas no campo da geração e processamento de boletos em sistemas financeiros. Fui responsável por desenvolver funcionalidades que possibilitavam a geração automática de boletos, a aplicação precisa de cálculos de valores e a integração com os sistemas bancários para validação e envio eficiente dos boletos aos clientes. 💼💡
 
-🚀 É gratificante fazer parte da equipe do Urbano Bank, contribuindo para o desenvolvimento contínuo e o aprimoramento das soluções oferecidas. Estou entusiasmado em continuar trabalhando com essas tecnologias e explorando novas oportunidades para impulsionar a inovação no setor financeiro. Vamos juntos construir o futuro das soluções bancárias! 💪🌟
+Participar ativamente da criação desse sistema de boletos do zero foi uma experiência enriquecedora e desafiadora. No processo, pude aprimorar minha prática no front-end, onde desempenhei um papel mais intensivo na criação da interface do boleto. Essa experiência me permitiu aprofundar meus conhecimentos em frameworks e linguagens voltadas para a construção de interfaces responsivas e eficientes, garantindo uma experiência de usuário agradável. 🎨📲
+
+Além disso, sou grato ao UrbanoBank por ter me dado a minha primeira oportunidade no mercado de trabalho como programador efetivado por uma empresa. Desde o início, a equipe do UrbanoBank acreditou em meu potencial e me proporcionou uma plataforma para desenvolver minhas habilidades como desenvolvedor full-stack. Estou verdadeiramente grato por essa oportunidade. 🙏
+
+Atualmente, no UrbanoBank, estamos imersos em um emocionante processo de aceitação do Basem, um marco importante para nos tornarmos um banco oficialmente. Nesse processo, estou envolvido ativamente em trabalhar com a equipe para implementar as alterações necessárias e garantir que nosso sistema esteja totalmente em conformidade com os requisitos e regulamentações exigidos. 💼🏦
+
+Participar desse processo de aceitação do Basem tem me proporcionado uma visão valiosa sobre as práticas e padrões do setor bancário. Estou aprendendo a lidar com desafios específicos e a adaptar nosso sistema para atender às demandas e exigências do mercado financeiro. Essa experiência tem sido enriquecedora, permitindo-me crescer profissionalmente e aprimorar minhas habilidades em um contexto real de desenvolvimento de um banco completo e confiável. 💪💼🚀
+
+Como desenvolvedor trainee full-stack, estou em constante busca por aprendizado e aprimoramento. Aproveito cada oportunidade no UrbanoBank para me manter atualizado com as últimas tendências e tecnologias, a fim de oferecer soluções de alta qualidade aos nossos clientes e usuários finais. Estou animado com as possibilidades que o futuro reserva e orgulhoso de fazer parte dessa jornada de transformação do UrbanoBank em uma instituição financeira de destaque no mercado. 🌟💼🔥
 
 ------------------------------
 
-R&AAngelozi 💻💳:
+👨‍💻 **Experiência na R&AAngelozi 💻💳 como Desenvolvedor Trainee** 👨‍💼
 
 Período: 08/2021 á 07/2022 🗓️
 
-Durante 11 meses, tive a incrível oportunidade de fazer parte do meu primeiro projeto no mundo da programação, atuando na área de sustentação no gerenciamento e pedido de maquininhas de crédito. Foi uma experiência enriquecedora, na qual pude lidar com prazos curtos e assumir responsabilidades significativas. 💼
+Durante 11 meses, tive a incrível oportunidade de fazer parte da equipe da R&AAngelozi, onde tive meu primeiro contato com o mundo da programação. Atuei na área de sustentação, especificamente no gerenciamento e pedido de maquininhas de crédito. Essa experiência foi extremamente enriquecedora, pois me permitiu lidar com prazos curtos e assumir responsabilidades significativas no projeto. 💼
 
-Nesse período, tive contato com tecnologias como Java ☕️, Spring Framework 🌱, JDBC Native, APIs REST 🌐, MySQL 🐬, Trello 📝, JBoss e jQuery. Essas ferramentas desempenharam um papel fundamental no desenvolvimento do projeto, permitindo a criação de soluções eficientes e robustas. Além disso, utilizei o RabbitMQ como plataforma de mensageria 🐇📨, facilitando a comunicação e integração entre os diferentes componentes do sistema. 📊💻
+Durante esse período, tive a chance de trabalhar com diversas tecnologias, incluindo:
 
-Embora tenha atuado principalmente no desenvolvimento back-end, também tive a oportunidade de me envolver no desenvolvimento front-end, o que me proporcionou uma visão mais abrangente do projeto. Essa primeira experiência no mundo da programação me permitiu adquirir conhecimentos técnicos valiosos e desenvolver habilidades colaborativas em um ambiente dinâmico. ⚙️🌐
+    - Java ☕️ - APIs REST 🌐 - Trello 📝 - JBoss - jQuery
+    - Spring Framework 🌱 - JDBC Native - MySQL 🐬 - Mensageria (RabbitMQ) 🐇📩
+    
 
-Foi gratificante contribuir para o sucesso desse projeto, enfrentando desafios e entregando soluções de qualidade. Essa experiência inicial me motivou a continuar explorando o mundo da programação e me deixou entusiasmado para novas oportunidades de aprendizado e crescimento. 🚀🔧
+Essas ferramentas desempenharam um papel fundamental no desenvolvimento do projeto, permitindo a criação de soluções eficientes e robustas. Além disso, utilizei o RabbitMQ como plataforma de mensageria 🐇📨, facilitando a comunicação e integração entre os diferentes componentes do sistema. 📊💻
+
+Embora tenha atuado principalmente no desenvolvimento back-end, também tive a oportunidade de me envolver no desenvolvimento front-end. Essa experiência me proporcionou uma visão mais abrangente do projeto e a oportunidade de aprender sobre diferentes aspectos do desenvolvimento de software. Essa primeira experiência no mundo da programação foi fundamental para o meu crescimento profissional, pois adquiri conhecimentos técnicos valiosos e desenvolvi habilidades colaborativas em um ambiente dinâmico. ⚙️🌐
+
+Contribuir para o sucesso desse projeto foi extremamente gratificante. Enfrentei desafios, trabalhei em equipe e entreguei soluções de qualidade que atenderam às necessidades dos clientes. Essa experiência inicial despertou em mim uma paixão pela programação e me deixou entusiasmado para buscar novas oportunidades de aprendizado e crescimento. Estou animado para explorar mais o mundo da programação, expandir meus conhecimentos e enfrentar novos desafios no campo tecnológico. 🚀🔧
+
+Estou profundamente grato à R&AAngelozi por ter me dado essa oportunidade valiosa de ingressar no mundo da programação e por todo o apoio e mentoria que recebi ao longo do processo. Estou ansioso para continuar minha jornada como desenvolvedor, aplicar os conhecimentos adquiridos e contribuir para o sucesso de futuros projetos. 🙏💻
 
 ------------------------------
 
